@@ -16,6 +16,7 @@
 - I believe "The best publicity is the recommendation", that's why I make my projects better than what the client expects
 - Personal website [https://vm-developer.com.ar](https://vm-developer.com.ar)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- [56/100 EFSET English certificate](https://www.efset.org/cert/ynkXJ5)
 
 <br>
 <br>
