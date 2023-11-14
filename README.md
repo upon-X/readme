@@ -47,6 +47,7 @@
 - **Cloud Hosting**:
 
     ![Vercel](https://img.shields.io/badge/Vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+    ![Netlify](https://img.shields.io/badge/Netlify-%231592C6.svg?style=for-the-badge&logo=netlify&logoColor=white) 
 <br>
 
 - **Softwares and Tools**:
