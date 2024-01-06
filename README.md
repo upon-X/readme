@@ -35,6 +35,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![React](https://img.shields.io/badge/React%20-%231592B6.svg?style=for-the-badge&logo=react&logoColor=white)
    ![Redux](https://img.shields.io/badge/Redux%20-%235522D1.svg?style=for-the-badge&logo=redux&logoColor=white)
+   ![Next.js](https://img.shields.io/badge/Next.js%20-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white)
 <br>
 
 - **Back-End Development**:
@@ -47,7 +48,8 @@
 - **Cloud Hosting**:
 
     ![Vercel](https://img.shields.io/badge/Vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-    ![Netlify](https://img.shields.io/badge/Netlify-%231592C6.svg?style=for-the-badge&logo=netlify&logoColor=white) 
+    ![Netlify](https://img.shields.io/badge/Netlify-%231592C6.svg?style=for-the-badge&logo=netlify&logoColor=white)
+    ![Railway](https://img.shields.io/badge/Railway-%23202491.svg?style=for-the-badge&logo=railway&logoColor=white)
 <br>
 
 - **Softwares and Tools**:
