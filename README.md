@@ -13,7 +13,7 @@
 - I am dedicated to developing projects that allow me to advance and enhance my trayectory as a programmer. 
 - I believe "The best publicity is the recommendation", that's why I make my projects better than what the client expects
 - Personal website [https://valemiche.com.ar](https://valemiche.com.ar)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ok_SCGq6zBHzOni1XCbQ9tZcBQJEQuVG/view?usp=sharing)
 - [56/100 EFSET English certificate](https://www.efset.org/cert/ynkXJ5)
 
 <br>
@@ -86,4 +86,4 @@
 
 Credit: [upon-X](https://github.com/upon-X)
 
-Last Edited on: 06/01/2024
+Last Edited on: 01/02/2024
