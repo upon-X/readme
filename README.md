@@ -64,6 +64,8 @@
 - **Extras**:
 
     ![Excel](https://img.shields.io/badge/Excel-%23054020?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+    ![Figma](https://img.shields.io/badge/Figma-%23ffffff?style=for-the-badge&logo=figma&logoColor=orange)
+    ![Canva](https://img.shields.io/badge/Canva-%230fadd3?style=for-the-badge&logo=canva&logoColor=white)
 </p>
 
 <br>
@@ -87,4 +89,4 @@
 
 Credit: [upon-X](https://github.com/upon-X)
 
-Last Edited on: 28/02/2024
+Last Edited on: 14/03/2024
