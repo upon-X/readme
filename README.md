@@ -11,7 +11,7 @@
 
 - [Henry](https://soyhenry.com) Graduate Full Stack Web Developer
 - I am dedicated to developing projects that allow me to advance and enhance my trayectory as a programmer. 
-- I believe "The best publicity is the recommendation", that's why I make my projects better than what the client expects
+- I believe "Recommendation is the best publicity", that's why I make my projects better than what the client expects
 - Personal website [https://valemiche.com.ar](https://valemiche.com.ar)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ok_SCGq6zBHzOni1XCbQ9tZcBQJEQuVG/view?usp=sharing)
 - [56/100 EFSET English certificate](https://www.efset.org/cert/ynkXJ5)
