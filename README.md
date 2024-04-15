@@ -51,6 +51,7 @@
     ![Vercel](https://img.shields.io/badge/Vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white) 
     ![Netlify](https://img.shields.io/badge/Netlify-%231592C6.svg?style=for-the-badge&logo=netlify&logoColor=white)
     ![Railway](https://img.shields.io/badge/Railway-%23202491.svg?style=for-the-badge&logo=railway&logoColor=white)
+    ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233D4DB1.svg?style=for-the-badge&logo=cloudinary&logoColor=white) 
 <br>
 
 - **Softwares and Tools**:
@@ -89,4 +90,4 @@
 
 Credit: [upon-X](https://github.com/upon-X)
 
-Last Edited on: 18/03/2024
+Last Edited on: 15/04/2024
