@@ -25,8 +25,9 @@
 
 - **Languages**:
 
-    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=black)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-%23613FD2.svg?style=for-the-badge&logo=csharp&logoColor=white)
 <br>
 
 - **Front-End Development**:
@@ -90,4 +91,4 @@
 
 Credit: [upon-X](https://github.com/upon-X)
 
-Last Edited on: 15/04/2024
+Last Edited on: 22/04/2024
