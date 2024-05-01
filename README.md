@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I´m Valentino Micheloni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there, I´m Valentino Micheloni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front+End+Developer,;Active+Learner/Researcher,;Excited+to+learn+new+stuffs..<3"></a>
@@ -11,9 +11,9 @@
 
 - Experience as Front-end Developer at [AWAQ ONGD](https://github.com/Awaq-Estaciones-Biologicas)
 - I am dedicated to developing projects that allow me to advance and enhance my trayectory as a programmer. 
-- I believe "Recommendation is the best publicity", that's why I make my projects better than what the client expects
+- "Recommendation is the best publicity", that's why I make my projects better than what the client expects
 - Personal website [https://valemiche.com.ar](https://valemiche.com.ar)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ok_SCGq6zBHzOni1XCbQ9tZcBQJEQuVG/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1LrFI5GE1iEer6UhSuryam-ag55QE2PSW/edit?usp=sharing&rtpof=true&sd=true)
 - [56/100 EFSET English certificate](https://www.efset.org/cert/ynkXJ5)
 
 <br>
@@ -68,6 +68,8 @@
     ![Excel](https://img.shields.io/badge/Excel-%23054020?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     ![Figma](https://img.shields.io/badge/Figma-%23ffffff?style=for-the-badge&logo=figma&logoColor=orange)
     ![Canva](https://img.shields.io/badge/Canva-%230fadd3?style=for-the-badge&logo=canva&logoColor=white)
+    ![Slack](https://img.shields.io/badge/Slack-%23ffffff?style=for-the-badge&logo=slack&logoColor=%230fadd3)
+  
 </p>
 
 <br>
