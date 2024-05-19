@@ -91,6 +91,4 @@
 <br>
 
 
-Credit: [upon-X](https://github.com/upon-X)
-
-Last Edited on: 14/05/2024
+Last Edited on: 19/05/2024
