@@ -10,9 +10,9 @@
 <br>
 
 - Experience as Front-end Developer at [AWAQ ONGD](https://github.com/Awaq-Estaciones-Biologicas)
-- I am dedicated to developing projects that allow me to advance and enhance my trayectory as a programmer. 
+- I am dedicated to developing projects that allow me to advance and enhance my trayectory as a developer. 
 - "Recommendation is the best publicity", that's why I make my projects better than what the client expects
-- Personal website [https://valemiche.com.ar](https://valemiche.com.ar)
+- Portfolio [https://valemiche.com.ar](https://valemiche.com.ar)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1LrFI5GE1iEer6UhSuryam-ag55QE2PSW/edit?usp=sharing&rtpof=true&sd=true)
 - [56/100 EFSET English certificate](https://www.efset.org/cert/ynkXJ5)
 
