@@ -36,8 +36,9 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Tailwindcss](https://img.shields.io/badge/Tailwindcss%20-%231592B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=00A3FF)
    ![React](https://img.shields.io/badge/React%20-%231592B6.svg?style=for-the-badge&logo=react&logoColor=white)
-   ![Redux](https://img.shields.io/badge/Redux%20-%235522D1.svg?style=for-the-badge&logo=redux&logoColor=white)
    ![Next.js](https://img.shields.io/badge/Next.js%20-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white)
+   ![Redux](https://img.shields.io/badge/Redux%20-%235522D1.svg?style=for-the-badge&logo=redux&logoColor=white)
+   ![Zustand](https://img.shields.io/badge/🐻%20Zustand%20-%235522D1.svg?style=for-the-badge)
 <br>
 
 - **Back-End Development**:
@@ -91,4 +92,4 @@
 <br>
 
 
-Last Edited on: 26/05/2024
+Last Edited on: 29/05/2024
