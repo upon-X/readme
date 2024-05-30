@@ -38,7 +38,7 @@
    ![React](https://img.shields.io/badge/React%20-%231592B6.svg?style=for-the-badge&logo=react&logoColor=white)
    ![Next.js](https://img.shields.io/badge/Next.js%20-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white)
    ![Redux](https://img.shields.io/badge/Redux%20-%235522D1.svg?style=for-the-badge&logo=redux&logoColor=white)
-   ![Zustand](https://img.shields.io/badge/🐻%20Zustand%20-%235522D1.svg?style=for-the-badge)
+   ![Zustand](https://img.shields.io/badge/🐻%20Zustand%20-%231E4DCE.svg?style=for-the-badge)
 <br>
 
 - **Back-End Development**:
@@ -92,4 +92,4 @@
 <br>
 
 
-Last Edited on: 29/05/2024
+Last Edited on: 30/05/2024
