@@ -63,12 +63,12 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Firebase](https://img.shields.io/badge/Firebase-%234285F4.svg?style=for-the-badge&logo=firebase&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Figma](https://img.shields.io/badge/Figma-%23ffffff?style=for-the-badge&logo=figma&logoColor=orange)
 <br>
 
 - **Extras**:
 
     ![Excel](https://img.shields.io/badge/Excel-%23054020?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-%23ffffff?style=for-the-badge&logo=figma&logoColor=orange)
     ![Canva](https://img.shields.io/badge/Canva-%230fadd3?style=for-the-badge&logo=canva&logoColor=white)
     ![Slack](https://img.shields.io/badge/Slack-%23ffffff?style=for-the-badge&logo=slack&logoColor=%230fadd3)
   
@@ -93,4 +93,4 @@
 <br>
 
 
-Last Edited on: 7/06/2024
+Last Edited on: 10/06/2024
