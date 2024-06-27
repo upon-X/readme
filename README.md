@@ -2,14 +2,14 @@
 <h1 align="center"><b>Hi there, I´m Valentino Micheloni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front+End+Developer,;Active+Learner/Researcher,;Excited+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full+Stack+Developer,;Active+Learner/Researcher,;Excited+to+learn+new+stuffs..<3"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
-- Currently working as Full Stack Developer at [Sherpa.wtf](https://github.com/Sherpa.wtf)
+- Currently working as Full Stack Developer at [Sherpa.wtf](https://github.com/Sherpa-wtf)
 - Experience as Front-end Developer at [AWAQ ONGD](https://github.com/Awaq-Estaciones-Biologicas)
 - I am dedicated to developing projects that allow me to advance and enhance my trayectory as a developer. 
 - "Recommendation is the best publicity", that's why I make my projects better than what the client expects
@@ -94,4 +94,4 @@
 <br>
 
 
-Last Edited on: 10/06/2024
+Last Edited on: 26/06/2024
