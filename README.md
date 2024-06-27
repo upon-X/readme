@@ -9,6 +9,7 @@
 
 <br>
 
+- Currently working as Full Stack Developer at [Sherpa.wtf](https://github.com/Sherpa.wtf)
 - Experience as Front-end Developer at [AWAQ ONGD](https://github.com/Awaq-Estaciones-Biologicas)
 - I am dedicated to developing projects that allow me to advance and enhance my trayectory as a developer. 
 - "Recommendation is the best publicity", that's why I make my projects better than what the client expects
