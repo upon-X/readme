@@ -9,6 +9,7 @@
 
 <br>
 
+- +2 years of experience with JavaScript on Full Stack Development
 - Currently working as Full Stack Developer at [Sherpa.wtf](https://github.com/Sherpa-wtf)
 - Experience as Front-end Developer at [AWAQ ONGD](https://github.com/Awaq-Estaciones-Biologicas)
 - I am dedicated to developing projects that allow me to advance and enhance my trayectory as a developer. 
@@ -94,4 +95,4 @@
 <br>
 
 
-Last Edited on: 26/06/2024
+Last Edited on: 07/07/2024
