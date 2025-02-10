@@ -9,7 +9,7 @@
 
 <br>
 
-- +2 years of experience on Full Stack Development
+- +3 years of experience on Full Stack Development
 - Currently working as Full Stack Developer at [Sherpa.wtf](https://github.com/Sherpa-wtf)
 - Experience as Front-end Developer at [AWAQ ONGD](https://github.com/Awaq-Estaciones-Biologicas)
 - I am dedicated to developing projects that allow me to advance and enhance my trayectory as a developer. 
@@ -38,6 +38,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Tailwindcss](https://img.shields.io/badge/Tailwindcss%20-%231592B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=00A3FF)
+   ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+   ![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
    ![React](https://img.shields.io/badge/React%20-%231592B6.svg?style=for-the-badge&logo=react&logoColor=white)
    ![Next.js](https://img.shields.io/badge/Next.js%20-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white)
    ![Redux](https://img.shields.io/badge/Redux%20-%235522D1.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -45,7 +47,8 @@
 <br>
 
 - **Back-End Development**:
-
+  
+   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%23572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%235572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Node.js](https://img.shields.io/badge/Node.js%20-%23145120.svg?style=for-the-badge&logo=node.js&logoColor=white)
    ![Express](https://img.shields.io/badge/Express%20-%231572.svg?style=for-the-badge&logo=express&logoColor=white)
@@ -64,15 +67,20 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Firebase](https://img.shields.io/badge/Firebase-%234285F4.svg?style=for-the-badge&logo=firebase&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![Cursor](https://img.shields.io/badge/Cursor-%231F2430.svg?style=for-the-badge&logo=cursor&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+    ![Miro](https://img.shields.io/badge/Miro-%23FFD02F?style=for-the-badge&logo=miro&logoColor=black)
     ![Figma](https://img.shields.io/badge/Figma-%23ffffff?style=for-the-badge&logo=figma&logoColor=orange)
 <br>
 
 - **Extras**:
-
-    ![Excel](https://img.shields.io/badge/Excel-%23054020?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-    ![Canva](https://img.shields.io/badge/Canva-%230fadd3?style=for-the-badge&logo=canva&logoColor=white)
+    
+    ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+    ![Excel](https://img.shields.io/badge/Excel-%23054020?style=for-the-badge&logo=excel&logoColor=white)
     ![Slack](https://img.shields.io/badge/Slack-%23ffffff?style=for-the-badge&logo=slack&logoColor=%230fadd3)
+    ![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
   
 </p>
 
